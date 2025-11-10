@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I’m @acfirthh
 
-<!--
-**acfirthh/acfirthh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a cybersecurity graduate and a security researcher with a focus on web applications and an avid enjoyer of open-source software and keeping it secure.
 
-Here are some ideas to get you started:
+## CVE Contributions
+![Disclosed CVEs](https://img.shields.io/badge/Disclosed%20CVEs-3-brightgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Assigned CVEs:**
+- [CVE-2025-64176](https://www.cve.org/CVERecord?id=CVE-2025-64176)
+- [CVE-2025-64177](https://www.cve.org/CVERecord?id=CVE-2025-64177)
+- [CVE-2025-64327](https://www.cve.org/CVERecord?id=CVE-2025-64327)
+
+## Interests
+- Web application security
+- Open-source contribution and vulnerability research
+- Self-hosting and home servers
+- CTFs - mainly *full pwn*, *web*, and *binary exploitation*
+
+### Personal Website
+[acfirth.com](https://acfirth.com/)
+
+---
+
+![HackTheBox Profile Badge](https://www.hackthebox.com/badge/image/1379691)
+![TryHackMe Profile Badge](https://tryhackme-badges.s3.amazonaws.com/acfirth.png)
