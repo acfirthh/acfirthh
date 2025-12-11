@@ -3,13 +3,14 @@
 I’m a cybersecurity graduate and a security researcher with a focus on web applications and an avid enjoyer of open-source software and keeping it secure.
 
 ## CVE Contributions
-![Disclosed CVEs](https://img.shields.io/badge/Disclosed%20CVEs-4-brightgreen)
+![Disclosed CVEs](https://img.shields.io/badge/Disclosed%20CVEs-5-brightgreen)
 
 **Assigned CVEs:**
 - [CVE-2025-64176](https://www.cve.org/CVERecord?id=CVE-2025-64176)
 - [CVE-2025-64177](https://www.cve.org/CVERecord?id=CVE-2025-64177)
 - [CVE-2025-64327](https://www.cve.org/CVERecord?id=CVE-2025-64327)
 - [CVE-2025-64759](https://www.cve.org/CVERecord?id=CVE-2025-64759)
+- [CVE-2025-67728](https://www.cve.org/CVERecord?id=CVE-2025-67728)
 
 ## Interests
 - Web application security
