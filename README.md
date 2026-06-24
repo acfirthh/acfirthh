@@ -13,6 +13,9 @@ I’m a cybersecurity graduate and a security researcher with a focus on web app
 - [CVE-2025-67728](https://www.cve.org/CVERecord?id=CVE-2025-67728)
 - [CVE-2026-42451](https://www.cve.org/CVERecord?id=CVE-2026-42451)
 
+**Other Reported Vulnerabilities:**
+- [GHSA-hj5g-p3v4-3cw5](https://github.com/alexta69/metube/security/advisories/GHSA-hj5g-p3v4-3cw5)
+
 ## Interests
 - Web application security
 - Open-source contribution and vulnerability research
